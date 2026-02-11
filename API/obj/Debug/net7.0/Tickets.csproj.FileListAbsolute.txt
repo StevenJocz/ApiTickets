@@ -55,3 +55,4 @@ D:\Proyectos Desarrollo\Tickets\Service\API\obj\Debug\net7.0\refint\Tickets.dll
 D:\Proyectos Desarrollo\Tickets\Service\API\obj\Debug\net7.0\Tickets.pdb
 D:\Proyectos Desarrollo\Tickets\Service\API\obj\Debug\net7.0\Tickets.genruntimeconfig.cache
 D:\Proyectos Desarrollo\Tickets\Service\API\obj\Debug\net7.0\ref\Tickets.dll
+D:\Proyectos Desarrollo\Tickets\Service\API\obj\Debug\net7.0\Tickets.sourcelink.json
