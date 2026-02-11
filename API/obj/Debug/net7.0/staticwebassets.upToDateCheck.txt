@@ -1,0 +1,10 @@
+wwwroot\Imagenes\ImagenesCursos\028cd7ec-f7c8-493e-9609-42a23fc8804a.jpg
+wwwroot\Imagenes\ImagenesCursos\09749165-f37d-46d9-a813-da98dedf284d.jpg
+wwwroot\Imagenes\ImagenesCursos\3783a439-1ffe-474a-81e0-255029d27745.jpg
+wwwroot\Imagenes\ImagenesCursos\64a8a585-195d-4fd7-95a7-7e2a804424a8.jpg
+wwwroot\Imagenes\ImagenesCursos\6a313186-949a-483c-87e4-6baa444bf242.jpeg
+wwwroot\Imagenes\ImagenesCursos\802ece5d-652f-4546-b0c5-01636dbf3e07.jpg
+wwwroot\Imagenes\ImagenesCursos\9d06369e-4bd8-4b9c-a7c6-a1bce5d8f8d1.jpg
+wwwroot\Imagenes\ImagenesCursos\b8a93fdb-fd15-4114-b9f1-f127be6aeba3.jpg
+wwwroot\Imagenes\ImagenesCursos\cc560ada-4ec7-4450-85d9-99a816ef0a24.jpg
+wwwroot\Imagenes\ImagenesCursos\ff6be772-b954-4c2c-805a-73bc2ab5e41d.jpg

@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "Tickets.Controllers.CatalogosController",
+    "Method": "ObtenerAreas",
+    "RelativePath": "api/catalogos/areas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tickets.Controllers.CatalogosController",
+    "Method": "ObtenerEstados",
+    "RelativePath": "api/catalogos/estados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tickets.Controllers.CatalogosController",
+    "Method": "ObtenerPrioridades",
+    "RelativePath": "api/catalogos/prioridades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tickets.Controllers.TicketsController",
+    "Method": "CrearTicket",
+    "RelativePath": "api/tickets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crearticketDto",
+        "Type": "Domain.DTOs.TicketD.CrearticketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tickets.Controllers.TicketsController",
+    "Method": "ObtenerTickets",
+    "RelativePath": "api/tickets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tickets.Controllers.TicketsController",
+    "Method": "ObtenerPorCodigo",
+    "RelativePath": "api/tickets/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tickets.Controllers.TicketsController",
+    "Method": "ActualizarEstado",
+    "RelativePath": "api/tickets/estado",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Domain.DTOs.TicketD.ActualizarEstadoTicketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.DTOs.TicketD.RespuestaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Tickets.Controllers.TicketsController",
+    "Method": "ObtenerPorUsuario",
+    "RelativePath": "api/tickets/usuario/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tickets.Controllers.UsuariosController",
+    "Method": "ListarUsuario",
+    "RelativePath": "api/usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioInicioDto",
+        "Type": "Domain.DTOs.UsuarioD.UsuarioInicioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
